@@ -1,3 +1,3 @@
-# MAde for cs50
+# Made for cs50
 
 ## Made by Saish
