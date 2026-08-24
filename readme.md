@@ -1,3 +1,3 @@
-# test repo
+# MAde for cs50
 
-## made by saish
+## Made by Saish
